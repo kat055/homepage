@@ -16,7 +16,7 @@
     <div class="list" style="position:absolute; top:60px">ABOUT</div>
     <div class="list" style="position:absolute; top:80px">CONTACT</div>
 
-    <div class="title">Furniture & <br> interior design
+    <div class="title">Sit on <br> me?
     <div style="font-size:large; word-spacing: 10px">Founded in 2017 by John Doe, the <br>
     studio is accustomed to creating <br>
     remarkable environments.</div>
